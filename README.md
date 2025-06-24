@@ -19,7 +19,7 @@ Exemplo:
 
 ## ⚙️ Tecnologias utilizadas
 
-- Python 3.10+
+- Python 
 - Jupyter Notebook
 - pandas
 - sqlalchemy
@@ -37,5 +37,5 @@ Instale as bibliotecas necessárias com:
 
 ```bash
 pip install pandas sqlalchemy pyodbc
-# ETL_Process
+
 
